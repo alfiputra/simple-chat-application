@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377400171880",
+    "project_id": "simplechatapplication-4b1e2",
+    "storage_bucket": "simplechatapplication-4b1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377400171880:android:b7fed86e514644e5e1cadd",
+        "android_client_info": {
+          "package_name": "id.alfiputra.simplechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377400171880-r2ndi6j23skt0dcko5a8k6gjs267c0nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDbdDRhuAdjYGQrM7lPyJfVEMpoUAy-Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377400171880-r2ndi6j23skt0dcko5a8k6gjs267c0nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

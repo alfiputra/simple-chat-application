@@ -6,7 +6,8 @@
         <entry key="..\:/AndroidStudioProjects/SimpleChatApp/app/src/main/res/drawable/btn_background.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/SimpleChatApp/app/src/main/res/drawable/edt_background.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/SimpleChatApp/app/src/main/res/layout/activity_log_in.xml" value="0.264" />
-        <entry key="..\:/AndroidStudioProjects/SimpleChatApp/app/src/main/res/layout/activity_sign_up.xml" value="0.1453804347826087" />
+        <entry key="..\:/AndroidStudioProjects/SimpleChatApp/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/AndroidStudioProjects/SimpleChatApp/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
       </map>
     </option>
   </component>
