@@ -20,6 +20,8 @@ class LogIn : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_log_in)
 
+        supportActionBar?.hide()
+
         mAuth = FirebaseAuth.getInstance()
 
         edtEmail = findViewById(R.id.edt_email)
@@ -45,6 +47,7 @@ class LogIn : AppCompatActivity() {
             .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
                     val intent = Intent(this@LogIn, MainActivity::class.java)
+                    finish()
                     startActivity(intent)
                 } else {
                     Toast.makeText(this@LogIn, "User does not exist!",
